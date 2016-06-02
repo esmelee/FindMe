@@ -1,0 +1,98 @@
+
+
+/* Game Barrel: */
+h1 {
+  font-family: EurostileBold;
+  font-size: 32px;
+  color: #8B572A;
+  display: inline-block;
+  position:relative;
+  bottom:10px;
+
+
+}
+
+#banner{
+  background: #50E3C2;
+  height: 50px;
+}
+#logo{
+  height:40px;
+  padding-left:10px;
+
+}
+#giraffe{
+
+  height: 47px;
+  position: absolute;
+  left: 400px;
+  padding-top:3px;
+}
+#nav{
+  display: inline;
+  float:right;
+  position:relative;
+  top:20px;
+}
+h3{
+font-family: EurostileBold;
+font-size: 15px;
+color: #8B572A;
+line-height: 20px;
+display:inline;
+padding:20px;
+
+}
+
+#mainsky{
+  width:100%;
+  padding:20px;
+  z-index:-1
+}
+h2{
+font-family: HanziPenTC-W5;
+font-size: 50px;
+color: #8B572A;
+z-index:1;
+display: inline-block;
+position: absolute;
+top:210px;
+margin-left:430px;
+}
+
+#start{
+padding: 10px 20px 10px 20px;
+font-family: EurostileBold;
+font-size: 30px;
+color: #FFFFFF;
+display: inline;
+position: absolute;
+top:300px;
+margin-left:480px;
+margin-right:450px;
+background: #7184BB;
+border-radius: 100px;
+
+}
+
+#rank{
+  padding: 10px 20px 10px 20px;
+  font-family: EurostileBold;
+  font-size: 24px;
+  color: #4A90E2;
+  display: inline;
+  position: absolute;
+  top:450px;
+  margin-left:490px;
+
+  background: #F4D202;
+  border-radius: 100px;
+}
+
+#rocket{
+  position:absolute;
+  top:380px;
+  margin-left:800px;
+  height:220px;
+
+}
